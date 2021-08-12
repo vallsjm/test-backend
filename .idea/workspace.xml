@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ec9e846-02a9-4e30-a50d-c2dd14f1dd3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1wZiEMxdsjWucP2dFBa0yIH70iz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Markdown-Groovy.md.groovy" />
+    <property name="database.data.extractors.current.id" value="Markdown-Groovy.md.groovy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ec9e846-02a9-4e30-a50d-c2dd14f1dd3d" name="Default Changelist" comment="" />
+      <created>1628672399075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628672399075</updated>
+      <workItem from="1628672400256" duration="11122000" />
+      <workItem from="1628757038334" duration="15170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2373" y="291" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628681657687">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2373" y="291" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.993/1920.0.1920.1080@0.27.1920.993" timestamp="1628681657687" />
+    <state width="1291" height="247" key="GridCell.Tab.0.bottom" timestamp="1628769926957">
+      <screen x="0" y="27" width="1920" height="993" />
+    </state>
+    <state width="1291" height="247" key="GridCell.Tab.0.bottom/0.27.1920.993/1920.0.1920.1080@0.27.1920.993" timestamp="1628769926957" />
+    <state width="1291" height="247" key="GridCell.Tab.0.center" timestamp="1628769926957">
+      <screen x="0" y="27" width="1920" height="993" />
+    </state>
+    <state width="1291" height="247" key="GridCell.Tab.0.center/0.27.1920.993/1920.0.1920.1080@0.27.1920.993" timestamp="1628769926957" />
+    <state width="1291" height="247" key="GridCell.Tab.0.left" timestamp="1628769926956">
+      <screen x="0" y="27" width="1920" height="993" />
+    </state>
+    <state width="1291" height="247" key="GridCell.Tab.0.left/0.27.1920.993/1920.0.1920.1080@0.27.1920.993" timestamp="1628769926956" />
+    <state width="1291" height="247" key="GridCell.Tab.0.right" timestamp="1628769926957">
+      <screen x="0" y="27" width="1920" height="993" />
+    </state>
+    <state width="1291" height="247" key="GridCell.Tab.0.right/0.27.1920.993/1920.0.1920.1080@0.27.1920.993" timestamp="1628769926957" />
+    <state x="2626" y="229" width="497" height="568" key="NewPhpClassDialog" timestamp="1628674604508">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2626" y="229" width="497" height="568" key="NewPhpClassDialog/0.27.1920.993/1920.0.1920.1080@1920.0.1920.1080" timestamp="1628674604508" />
+  </component>
+</project>
